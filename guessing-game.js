@@ -1,4 +1,4 @@
-// Simple Guessing Number Game
+// Simple Number Guessing Game
 
 const readline = require('node:readline');
 
