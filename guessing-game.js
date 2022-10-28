@@ -1,3 +1,5 @@
+// Simple Guessing Number Game
+
 const readline = require('node:readline');
 
 const rl = readline.createInterface({
